@@ -1,0 +1,53 @@
+ body {
+    padding: 10px;
+    color: #000000;
+    font-size: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+ }
+
+ header {
+    padding: 20px;
+    background: #d19359;
+    color: #000000;  
+  }
+
+  nav {
+    padding: 20px;
+    height: 20px;
+    background: #d19359;
+    color: #000000;
+  }
+
+  div {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+  }
+
+  article {
+    padding: 20px;
+    background: #8ce2ff;
+    color: #000000;   
+  }
+
+  section {
+    padding: 20px;
+    margin: 15px;
+    background: #bccdd8;
+    height: 40px;
+    color: #000000;
+    font-size: 20px;
+  }
+
+  aside {
+    padding: 20px;
+    background: #91aec1;
+    color: #000000;   
+  }
+  
+ footer {
+    padding: 20px;
+    background: #d19359;
+    color: #000000;
+    
+  }
